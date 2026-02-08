@@ -4,9 +4,9 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ-GITHUB-НИК&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ilya57061&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ-GITHUB-НИК&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilya57061&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
